@@ -1,5 +1,7 @@
-# Note Categories
+# Index
 
 ## [[Game Critique]]#
 
 ## [[Game Development]]#
+
+## [[Computer Science]]#
