@@ -14,4 +14,4 @@
 - Every character selects 4 classes
 - High difficulty, few enemies
 - Randomized dungeons
-- #[[Path of Exile]]-style currency
+- [[Path of Exile]]-style currency
