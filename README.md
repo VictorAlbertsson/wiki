@@ -1,1 +1,3 @@
-# Quick link: https://victoralbertsson.github.io/notes
+# README
+
+Quick link: https://victoralbertsson.github.io/notes
