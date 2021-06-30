@@ -1,1 +1,1 @@
-# https://victoralbertsson.github.io/notes
+# Quick link: https://victoralbertsson.github.io/notes
