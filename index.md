@@ -7,3 +7,5 @@ My personal collection of notes and musings, my zettelkasten.
 ## [[1e1755aa]]#
 
 ## [[61f166f4]]#
+
+## [[5d9d3ad4]]#
