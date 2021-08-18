@@ -27,7 +27,7 @@ winners = [
     motorboat(28,0)
     boat {
         wll = 0
-    }
+    } | default
 ]</code></pre><pre><code class="language-none">&quot;  Some   sample text. &quot;
 | filter(not(utf-8:match(&quot;.&quot;)))
 | utf-8:split_on(utf-8:whitespace)
